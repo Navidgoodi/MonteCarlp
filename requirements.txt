@@ -1,5 +1,5 @@
 streamlit 
 numpy 
 pandas 
-scipy.stats 
-plotly.express 
+scipy
+plotly
